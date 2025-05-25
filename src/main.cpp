@@ -5,7 +5,7 @@
 
 // === Wi-Fi ===
 #define WIFI_SSID "Sporki" // name of your wifi
-#define WIFI_PASSWORD "" //Add here your wifi password 
+#define WIFI_PASSWORD "123456" //Add here your wifi password 
 
 // === Firebase ===
 #define API_KEY "AIzaSyAWfIMqQwu_ZW6v-ESNDmtxK5Z_gyoKiOc"
